@@ -1,0 +1,6 @@
+name = input("enter name:")
+age=int(input("enter age:"))
+height=float(input("enter height:"))
+print("name:",name)
+print("age:",age)
+print("height:",height)
